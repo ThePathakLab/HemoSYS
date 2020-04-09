@@ -1,10 +1,12 @@
 # [HemoSYS](https://doi.org/10.1038/s41598-020-58918-3)
 ## A Toolkit for Image-based Systems Biology of Tumor Hemodynamics
 ### Janaka Senarathna, Ayush Prasad, Akanksha Bhargava, Stacy Gil, Nitish V. Thakor & Arvind P. Pathak
+
 ---
 # Instructions
 1. Make sure you have installed MATLAB® (R2014 version or later).
 2. Open and run hemosys.m (with associated fn_ files) to begin the HemoSYS toolkit.
+
 ---
 # Disclaimer
 This software is Copyright © 2020 by
@@ -20,8 +22,10 @@ This software is Copyright © 2020 by
 - HemoSYS has not been evaluated or approved by the United States Food and Drug Administration (FDA) or by any other agency. There are no plans to have this software so evaluated.
 
 - **If you or your institution do not accept the above conditions, then you have no right to use this software.**
+
 ---
-## Reference and citation
-Senarathna, J., Prasad, A., Bhargava, A. et al. HemoSYS: A Toolkit for Image-based Systems Biology of Tumor Hemodynamics. Sci Rep 10, 2372 (2020). https://doi.org/10.1038/s41598-020-58918-3
+# Reference and citation
+[Senarathna, J., Prasad, A., Bhargava, A. et al. HemoSYS: A Toolkit for Image-based Systems Biology of Tumor Hemodynamics. Sci Rep 10, 2372 (2020).](https://doi.org/10.1038/s41598-020-58918-3)
+
 ---
 *For further information, please visit us at http://www.pathaklab.org/hemosys/.*
