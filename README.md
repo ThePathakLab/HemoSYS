@@ -6,7 +6,9 @@
 # Instructions
 1. Make sure you have installed MATLAB® (R2014 version or later).
 2. Open and run hemosys.m (with associated fn_ files) to begin the HemoSYS toolkit.
+
 OR
+
 1. Download and run HemoSYS Installer.exe to install the HemoSYS application (MATLAB® not required).
 
 ---
